@@ -1,2 +1,0 @@
-# Linux-Scrypt
-shell scrypting
